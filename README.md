@@ -7,7 +7,9 @@ You can **directly copy-paste this** into your `README.md` file.
 
 # AI-Based Travel Planner
 
-The **AI-Based Travel Planner** is a smart web application that generates **personalized travel itineraries** using artificial intelligence. Users can plan complete trips by providing natural language inputs such as destination, budget, dates, and travel style. The system produces realistic, day-by-day travel plans without relying on paid APIs.
+The **AI-Based Travel Planner** is a smart web application that generates **personalized travel itineraries** using artificial intelligence. Users can plan complete trips by providing natural language inputs such as destination, budget, dates, and travel style. The system produces realistic, day-by-day travel plans without relying on paid APIs. This project is currently running on a mock AI interface that simulates intelligent travel itinerary generation using predefined logic and prompt-based responses. The architecture is designed to be LLM-ready, ensuring a smooth transition to full AI capabilities.
+
+With an active LLM API subscription, the system can be extended to use LLM agents for advanced reasoning, dynamic itinerary optimization, real-time decision making, and conversational planning. The existing backend and prompt structure fully support future integration of autonomous LLM agents without requiring major architectural changes.
 
 ---
 
